@@ -35,6 +35,15 @@ Este documento apresenta a arquitetura proposta para a integração com o RSFN. 
 
 ---
 
+### 4. [C4 Model](./C4Model.md)
+
+Para uma descrição detalhada da arquitetura do **API Gateway**, incluindo suas camadas de contexto, contêiner e componentes, acesse o [C4 Model](./C4Model.md).
+
+**Propósito:** Representar visualmente como o sistema foi projetado para atender aos requisitos do RSFN.  
+**Objetivo Final:** Garantir clareza na comunicação entre equipes e facilitar o planejamento técnico.
+
+---
+
 ## Objetivo Final do Projeto
 
 A meta principal é desenvolver uma plataforma que:
@@ -62,3 +71,6 @@ A meta principal é desenvolver uma plataforma que:
 ---
 
 Sinta-se à vontade para explorar os documentos e contribuir para o desenvolvimento desta solução inovadora para o mercado financeiro brasileiro!
+---
+
+
