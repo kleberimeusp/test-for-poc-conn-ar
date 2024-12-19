@@ -26,7 +26,7 @@ Este documento aborda especificamente os sistemas **SPI** e **STR**, explicando 
 
 ---
 
-### 3. [Software Architecture Challenge](./Software_Architecture_Challenge.md)
+### 3. [Desafio de Arquitetura de Software](./Desafio_Arquitetura_Software.md)
 Este documento apresenta a arquitetura proposta para a integração com o RSFN. Ele cobre o **stack tecnológico**, a **arquitetura de software**, as práticas de **DevOps** e a **metodologia de gerenciamento de projetos**.
 
 #### Objetivo:
